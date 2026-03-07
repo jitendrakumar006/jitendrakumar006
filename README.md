@@ -2,54 +2,48 @@
 <h3 align="center">BTech Student | Aspiring Software Developer</h3>
 
 <p align="center">
-Hello! I'm Jitendra Kumar, a passionate developer who enjoys building useful applications and learning modern technologies.
-</p>
-
-<p align="center">
-Currently focusing on <b>Java, Data Structures, and Full Stack Development</b>.
+Passionate about building applications and learning modern technologies.
+Currently learning Java, Data Structures and Web Development.
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌐 Socials
 
-* 🎓 BTech Student
-* 💻 Currently learning **Java & Data Structures**
-* 🤖 Interested in **Artificial Intelligence and Full Stack Development**
-* 🛠 Working on projects like **Student Management System, Weather App, Typing Test**
-* 🎯 Goal: Become a **Professional Software Developer**
+<p>
 
----
+<a href="https://instagram.com/https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=v7wmjgy">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-## 🧰 Tech Stack
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jitendra-kumar-6503b6321?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<a href="mailto:jitendrakg006@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-## 📂 Projects
+## 💻 Tech Stack
 
-### 🎓 Student Management System
+<p>
 
-Java Swing based desktop application for managing student records with add, update, delete and search features.
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-### 🌦 Weather App
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-Application that fetches real-time weather data using API and displays temperature and weather conditions.
-
-### ⌨ Typing Speed Test
-
-Java application that calculates typing speed (WPM) and typing accuracy with timer functionality.
+</p>
 
 ---
 
@@ -67,7 +61,7 @@ Java application that calculates typing speed (WPM) and typing accuracy with tim
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=jitendrakumar006&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=jitendrakumar006&theme=tokyonight"/>
 
 </p>
 
@@ -83,16 +77,11 @@ Java application that calculates typing speed (WPM) and typing accuracy with tim
 
 ---
 
-## 🌐 Connect With Me
-
-<p>
-
-<a href="https://github.com/jitendrakumar006">GitHub</a>
-
-</p>
-
----
-
 ## 💡 Developer Quote
 
 > "Consistency and continuous learning are the keys to becoming a great developer."
+
+---
+
+ **Jitendra Kumar**
+
