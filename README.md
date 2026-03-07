@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Jitendra Kumar</h1>
 <h3 align="center">BTech Student | Aspiring Software Developer</h3>
 
@@ -5,6 +6,17 @@
 Passionate about building applications and learning modern technologies.
 Currently learning Java, Data Structures and Web Development.
 </p>
+
+---
+
+## 🚀 About Me
+
+* 🎓 BTech Student
+* 💻 Currently learning **Java & Data Structures**
+* 🌐 Interested in **Web Development**
+* 🛠 Building useful projects and improving coding skills
+* 🌍 **Checkout my portfolio:**
+  https://myportfolio-jitendra.netlify.app
 
 ---
 
@@ -38,8 +50,15 @@ Currently learning Java, Data Structures and Web Development.
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
@@ -83,5 +102,4 @@ Currently learning Java, Data Structures and Web Development.
 
 ---
 
- **Jitendra Kumar**
-
+⭐ From **Jitendra Kumar**
