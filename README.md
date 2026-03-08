@@ -67,7 +67,13 @@ Currently learning Java, Data Structures and Web Development.
 ---
 
 
-## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jitendrakumar006&show_icons=true&theme=default" /> </p>
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jitendrakumar006&show_icons=true&theme=tokyonight"/>
+
+</p>
 ---
 
 
