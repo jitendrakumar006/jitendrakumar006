@@ -80,6 +80,9 @@ Currently learning Java, Data Structures and Web Development.
 </p>
 ---
 
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jitendrakumar006&theme=tokyonight&no-frame=true&margin-w=10"/> </p>
+
 
 
 ## 🔥 GitHub Streak
